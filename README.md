@@ -14,4 +14,4 @@ Daily weather observations loaded from `weather.csv`, indexed by date and includ
 
 **What I learned / Results**  
 - The pipeline produces a cleaned, feature‑rich time‑series dataset suitable for regularized linear modeling. 
-- Backtesting with MAE and MSE shows how well Ridge regression can approximate next‑day `tmax`, and error distributions over time highlight when the model struggles versus when it is accurate!
+- Backtesting with MAE and MSE shows how well Ridge regression can approximate next‑day `tmax`, and error distributions over time highlight when the model struggles versus when it is accurate.
